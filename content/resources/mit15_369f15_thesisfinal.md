@@ -4,6 +4,7 @@ description: "This file contains information regarding how to apply entrepreneur
   \ tools to corporations\u2014easily thesis."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/4928c8258e0eebf2d72f872586bfd0d4_MIT15_369F15_ThesisFinal.pdf
 file_type: application/pdf
+parent_uid: 6903d02e-efc7-da39-3620-74e0f24ce1ae
 resourcetype: Document
 title: "\"How to Apply Entrepreneurial Tools to Corporations\u2014Easily!\" MIT Sloan\
   \ Thesis, June 2015."
